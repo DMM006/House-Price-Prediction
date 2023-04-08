@@ -32,6 +32,7 @@ You are required to model the price of houses with the available independent var
     - Interpret the Results
 
 - Various visual graphs such as matplotlib and seaborn are used for Exploratory Data Analysis and sklearn and statsmodel modules are used for building the model 
+- Various additional analysis also carried out by addressing Assignment Part-II also
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
@@ -44,11 +45,12 @@ You are required to model the price of houses with the available independent var
 - Sklearn
 - Statsmodel
 
-## Conclusions
-- The model the demand for shared bikes with the available independent variables. 
-- It will be used by the management to understand how exactly the demands vary with different features. 
-- The model can accordingly manipulate the business strategy to meet the demand levels and meet the customer's expectations. 
-- Further, the model will be a good way for management to understand the demand dynamics of a new market. 
+## Assignment Part-II
+
+- What is the optimal value of alpha for ridge and lasso regression? What will be the changes in the model if you choose double the value of alpha for both ridge and lasso? What will be the most important predictor variables after the change is implemented?
+- You have determined the optimal value of lambda for ridge and lasso regression during the assignment. Now, which one will you choose to apply and why?
+- After building the model, you realised that the five most important predictor variables in the lasso model are not available in the incoming data. You will now have to create another model excluding the five most important predictor variables. Which are the five most important predictor variables now?
+- How can you make sure that a model is robust and generalisable? What are the implications of the same for the accuracy of the model and why?. 
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
