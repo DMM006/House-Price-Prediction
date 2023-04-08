@@ -21,8 +21,8 @@ You are required to model the price of houses with the available independent var
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- This analysis highlights the Exploratory Data Analysis (EDA) and Multiple Linear Regression  for Bike Sharing Data Set
-- Various EDA and data modelling process as been carried for bike sharing dataset such as
+- This analysis highlights the prediction of Surprise Housing using advanced regression technique such as **Lasso and Ridge regression**
+- Various EDA and data modelling process as been carried for Surprise Housing  dataset such as
     - Data Sourcing
     - Data Cleaning
     - Plotting the Data
